@@ -1,6 +1,6 @@
 # Implicit dependencies (optional dependencies of dependencies)
 pysolr==3.2.0
-pygments==2.0.1
+pygments==2.15.0
 python-social-auth==0.1.26
 
 # Explicit dependencies (references in code)
